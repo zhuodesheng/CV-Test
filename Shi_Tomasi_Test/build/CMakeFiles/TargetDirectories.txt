@@ -1,0 +1,3 @@
+/home/zds/projects/CV-Test/Shi_Tomasi_Test/build/CMakeFiles/edit_cache.dir
+/home/zds/projects/CV-Test/Shi_Tomasi_Test/build/CMakeFiles/rebuild_cache.dir
+/home/zds/projects/CV-Test/Shi_Tomasi_Test/build/CMakeFiles/shi_tomasi_test.dir
